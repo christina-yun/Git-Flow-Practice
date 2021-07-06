@@ -17,4 +17,5 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 
 - Steve Rogers
 - Ryan Hamblin
-- Christina Yun (test NUMBER 2)
+- Christina Yun (Okay, we're trying for the third time here)
+- Honorable mention: Nick Wold
